@@ -3,10 +3,10 @@ const moment = require("moment");
 
 const fetchPartners = async (firstName, status) => {
   try {
-    const API_URL = "https://api.feryrides.com/get-database-data";
+    const API_URL = "https://api.feryrides.com/";
 
     const headers = {
-      "x-api-key": "wINQDnh1MqvHicp5puuYoZVowXfqjQHa",
+      "x-api-key": "sswtyghxxxxxxxxxxxxxxxxxxxxxx",
       "Content-Type": "application/json",
     };
 
